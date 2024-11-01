@@ -2,6 +2,3 @@ langchain
 transformers
 streamlit
 PyPDF2
-
-
--e .

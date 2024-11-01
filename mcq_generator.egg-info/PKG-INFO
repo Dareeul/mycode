@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mcq_generator
+Version: 0.0.1
+Author: Dareeul
+Author-email: dulyarit.lua@gmail.com
+Requires-Dist: langchain
+Requires-Dist: transformers
+Requires-Dist: streamlit
+Requires-Dist: PyPDF2
